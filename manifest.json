@@ -1,0 +1,21 @@
+{
+  "name": "Sistema de Gerenciamento Funerário",
+  "short_name": "Gerenciador",
+  "description": "Controle completo de clientes, prazos e finanças para serviços funerários.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f1f5f9",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
